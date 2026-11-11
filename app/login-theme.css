@@ -1,0 +1,54 @@
+.login-bg {
+  background: #18172b;
+  background-image: repeating-linear-gradient(0deg, transparent 0, transparent 3px, #ffffff05 4px);
+  font-family: 'Chakra Petch', 'IBM Plex Sans Thai', sans-serif;
+}
+.login-card {
+  background: #22203c;
+  border: 3px solid #51477f;
+  border-radius: 0;
+  box-shadow: 7px 7px 0 #090914;
+  color: #e9eaff;
+}
+.login-card .brand-mark {
+  background: #ff238f;
+  border: 3px solid #fff;
+  border-radius: 0;
+  box-shadow: 4px 4px 0 #111020;
+}
+.login-card .eyebrow {
+  color: #32e4e0;
+}
+.login-card h1 {
+  color: #fff;
+  font-family: 'Chakra Petch', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.login-card p,
+.login-card small {
+  color: #a4a0c4;
+}
+.login-card label {
+  color: #c6c3e3;
+}
+.login-card input {
+  background: #18172b;
+  color: #f7f6ff;
+  border: 2px solid #504982;
+  border-radius: 0;
+}
+.login-card input:focus {
+  border-color: #27deda;
+  box-shadow: 3px 3px 0 #121122;
+}
+.login-card .primary {
+  background: #ff238f;
+  border: 3px solid #fff;
+  border-radius: 0;
+  box-shadow: 4px 4px 0 #111020;
+  color: #fff;
+}
+.login-card .primary:hover {
+  background: #e51b80;
+}
